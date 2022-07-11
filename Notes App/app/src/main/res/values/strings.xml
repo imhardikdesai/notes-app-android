@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="login_name">MaterialLoginPage</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forget Password?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="already_have_an_account">Welcome Back!</string>
+    <string name="login_to_continue">Log in to Continue</string>
+    <string name="nice_to_see_you">Nice to See You</string>
+    <string name="new_user">New User</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_worry_we_are_here">Don\'t Worry We Are Here</string>
+    <string name="click_here_to_recover">Click Here to Recover</string>
+    <string name="go_back_to_login_screen">Go Back To Login Screen</string>
+</resources>

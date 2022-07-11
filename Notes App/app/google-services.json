@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517722686989",
+    "project_id": "note-app-f3fa7",
+    "storage_bucket": "note-app-f3fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517722686989:android:444417e965b3b541c83744",
+        "android_client_info": {
+          "package_name": "com.hardikdesai.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517722686989-2ekbjn7kn0gd6jd0vuof97u69kgdahbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvJQMPFdbn63JzCkwHAxn1om5X4rlNU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517722686989-2ekbjn7kn0gd6jd0vuof97u69kgdahbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
